@@ -1,0 +1,6 @@
+#includ<stdio.hd>
+int main()
+{
+print f("hello");
+return0;
+}
